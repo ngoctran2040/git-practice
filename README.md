@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Nguyễn Ngọc Trân, MSSV 222774.
+README từ nhánh conflict-demo
